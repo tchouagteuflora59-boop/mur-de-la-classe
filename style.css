@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
 
 :root {
-  --green: #087a4b;
-  --green-dark: #064b34;
-  --yellow: #f4c542;
-  --red: #c83b3b;
-  --ink: #17251f;
-  --muted: #718078;
+  --green: #7a0869;
+  --green-dark: #4b0644;
+  --yellow: #4245f4;
+  --red: #3b4bc8;
+  --ink: #f20faa;
+  --muted: #e41bbc;
   --paper: #f6f8f5;
 }
 * { box-sizing: border-box; }
@@ -14,8 +14,8 @@ html { scroll-behavior: smooth; }
 body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'DM Sans', sans-serif; }
 .hero {
   min-height: 440px; position: relative; overflow: hidden; color: white;
-  background: linear-gradient(120deg, rgba(4,48,34,.97), rgba(7,119,72,.88)),
-              radial-gradient(circle at 80% 20%, #f4c542, transparent 35%);
+  background: linear-gradient(120deg, rgba(240, 19, 19, 0.97), rgba(210, 133, 136, 0.88)),
+              radial-gradient(circle at 80% 20%, #ed1f2a, transparent 35%);
   padding: 24px max(6vw, 24px) 76px;
 }
 .topbar { display:flex; justify-content:space-between; align-items:center; max-width:1180px; margin:auto; }

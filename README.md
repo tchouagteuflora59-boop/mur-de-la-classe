@@ -134,4 +134,5 @@ la réutilisation et la modification du code.
 
 ------------------------------------------------------------------------
 
-Développé avec ❤️ pour mettre en valeur les villes du Cameroun. 🇨🇲
+Développé avec flora Jaele pour mettre en valeur les villes du Cameroun. 🇨🇲
+Modifié par Tchouagteu Flora Jaele ...
